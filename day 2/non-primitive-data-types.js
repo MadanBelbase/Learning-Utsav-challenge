@@ -81,31 +81,31 @@
 
 //concatination using addition Operator
 
-// let space = ' '
-// let firstName = 'Madan'
-// let lastName = 'Belbase'
-// let country = 'Nepal'
-// let city = 'kathamandu'
-// let language = 'JavaScript'
-// let job = 'student'
-// let age = 2500000
+let space = ' '
+let firstName = 'Madan'
+let lastName = 'Belbase'
+let country = 'Nepal'
+let city = 'kathamandu'
+let language = 'JavaScript'
+let job = 'student'
+let age = 2500000
 
 
-// let fullName =firstName + space + lastName
-// let personInfoOne = fullName + '. I am ' + age + '. I live in ' + country; // ES5 string addition
+let fullName =firstName + space + lastName
+let personInfoOne = fullName + '. I am ' + age + '. I live in ' + country; // ES5 string addition
 
-// console.log(personInfoOne)
+console.log(personInfoOne)
 
-// console.log('I hope everyone is enjoying the 30 Days Of lerning utasv  challenge.\nDo you ?') // line break
-// console.log('Days\tTopics\tExercises')
-// console.log('Day 1\t3\t5')
-// console.log('Day 2\t3\t5')
-// console.log('Day 3\t3\t5')
-// console.log('Day 4\t3\t5')
-// console.log('This is a backslash  symbol (\\)') // To write a backslash
-// console.log('In every programming language it starts with \"Hello, World!\"')
-// console.log("In every programming language it starts with \'Hello, World!\'")
-// console.log('The saying \'Seeing is Believing\' isn\'t correct in 2020')
+console.log('I hope everyone is enjoying the 30 Days Of lerning utasv  challenge.\nDo you ?') // line break
+console.log('Days\tTopics\tExercises')
+console.log('Day 1\t3\t5')
+console.log('Day 2\t3\t5')
+console.log('Day 3\t3\t5')
+console.log('Day 4\t3\t5')
+console.log('This is a backslash  symbol (\\)') // To write a backslash
+console.log('In every programming language it starts with \"Hello, World!\"')
+console.log("In every programming language it starts with \'Hello, World!\'")
+console.log('The saying \'Seeing is Believing\' isn\'t correct in 2020')
 
 //Template Literals (Template Strings)
 
