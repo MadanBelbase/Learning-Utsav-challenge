@@ -106,10 +106,12 @@
 
 //Float to int
 
-let num = 9.81
-let numInt = parseInt(num)
+// let num = 9.81
+// let numInt = parseInt(num)
 
-console.log(numInt) // 9
+// console.log(numInt) // 9
+console.log("JavaScript is fun!".includes("fun")) 
+console.log("Learning".slice(0, 4))
 
 
 
