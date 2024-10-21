@@ -38,7 +38,7 @@
 // });
 
 
-// promise constructor
+//      constructor
 
 const doPromise = new Promise((resolve, reject) => {
     setTimeout(() => {
