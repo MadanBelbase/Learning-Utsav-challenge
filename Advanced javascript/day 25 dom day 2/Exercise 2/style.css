@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 36px;
+}
+.year {
+  color: blue;
+}
+.date {
+  margin: 0 auto;
+  font-size: 18px;
+  color: rgb(20, 11, 11);
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 580px; 
+}
+
+.challenge-list {
+ max-width: 600px; 
+  margin: 0 auto;
+  padding: 0;
+  list-style-type: none;
+}
+
+.challenge {
+  margin: 10px 0;
+  padding: 15px;
+  color: rgb(10, 9, 9);
+  font-weight: bold;
+  border-radius: 5px;
+}
+.section2 {
+  justify-content: center;
+  text-align: center;
+}
+.social-media {
+  justify-content: center;
+  list-style-type: none;
+  display: flex;
+  gap: 4px;
+}
+.last-section {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.title {
+  list-style-type: none;
+}
+.skills {
+  list-style-type: none;
+}
+.qulifications {
+  list-style-type: none;
+}
