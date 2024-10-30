@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Document Object Model</title>
+  </head>
+
+  <body>
+    <button>Click Me</button>
+
+    <script>
+        // Select the first <button> element from the DOM and store it in the 'button' variable
+        const button = document.querySelector('button')
+  
+        // Add a 'click' event listener to the button. When the button is clicked, the function will execute
+        button.addEventListener('click', e => {
+          // Log the entire event object 'e' which contains details about the event
+          console.log('e gives the event listener object:', e)
+  
+          // Log the target of the event (i.e., the element that was clicked). In this case, it's the button
+          console.log('e.target gives the selected element: ', e.target)
+  
+          // Log the text content of the clicked element (the button)
+          console.log(
+            'e.target.textContent gives content of selected element: ',
+            e.target.textContent
+          )
+        })
+  </script>
+  
+  </body>
+</html>
